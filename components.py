@@ -7,7 +7,7 @@ class Person():
 class Club():
     def __init__(self, name, description):
         # your code goes here!
-
+oaeijefoia
 
     def assign_president(self, person):
         # your code goes here!
